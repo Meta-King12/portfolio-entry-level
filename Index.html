@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="description" content="Mathew's Portfolio - Junior Penetration Tester">
+  <meta name="author" content="Mathew">
+  <title>Meta | Penetration Tester</title>
+  <link href="Style.css" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js"></script>
+  <!-- Font Awesome for icons -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet">
+
+<!-- AOS Animation Library -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css" rel="stylesheet">
+
+<!-- Bootstrap Modal (already included), but ensure jQuery for advanced interactivity -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+  <!-- AOS CSS -->
+  <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+  <!-- icons CSS -->
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+
+</head>
+<body>
+
+  <!-- Intro Animation Section -->
+  <section id="intro" class="intro-section">
+    <div class="intro-content text-center">
+      <h1 class="display-4 fw-bold">Welcome to My Portfolio</h1>
+      <h1 class="display-4 fw-bold">Penetration Tester <span style="color: orangered;"> Meta</span></h1>
+    </div>
+  </section>
+
+  <!-- Navbar -->
+  <nav class="navbar navbar-expand-lg bg-dark navbar-dark fixed-top" style="opacity: 0;">
+    <div class="container-fluid">
+      <a class="navbar-brand fw-bold" href="#home"><i class="bi bi-shield-lock-fill me-1"></i>Meta</a>
+      <a class="navbar-brand fw-bold text-primary" href="#home">Penetration Tester</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item"><a class="nav-link" href="#home"><i class="bi bi-house-door-fill me-1"></i>Home</a></li>
+          <li class="nav-item"><a class="nav-link" href="#about"><i class="bi bi-person-fill me-1"></i>About</a></li>
+          <li class="nav-item"><a class="nav-link" href="#skills"><i class="bi bi-tools me-1"></i>Skills</a></li>
+          <li class="nav-item"><a class="nav-link" href="#certifications"><i class="bi bi-patch-check-fill me-1"></i>Certifications</a></li>
+          <li class="nav-item"><a class="nav-link" href="#contact"><i class="bi bi-envelope-fill me-1"></i>Contact</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Sections -->
+  <section id="home" class="container py-5 fade-slide-up">
+    <div class="text-center mt-5">
+      <h1 style="color: #3f396d">
+        Hello! I Am <br /><span style="color: rgb(255, 172, 18);">Meta</span>
+      </h1>
+      <p class="text-muted">
+        I am a passionate and detail-oriented junior penetration tester with a strong foundation in ethical hacking and cybersecurity principles. Skilled in using tools like Nmap, Burp Suite, and Metasploit to identify and analyze vulnerabilities.
+        Eager to contribute to securing systems and continuously learn in a dynamic cybersecurity environment.
+      </p>
+    </div>
+  </section>
+
+  <section id="about" class="container py-5 fade-slide-up">
+  <h2>About Me</h2>
+  <p>About you...
+  </p>
+  <a href="Resume url" download class="btn btn-primary mt-3">
+    <i class="fas fa-download"></i> Download CV
+  </a>
+</section>
+
+
+  <section id="skills" class="container py-5 fade-slide-up">
+    <h2>Skills</h2>
+    <ul>
+      <li>Skill 1</li>
+      <li>Skill 2</li>
+      <li>Skill 3</li>
+      <li>Skill 4</li>
+      <li>Skill 5</li>
+    </ul>
+  </section>
+
+  <!-- Certifications Section -->
+<section id="certifications" class="container py-5" style="transition-duration: 1.5s;">
+  <h2 style="text-align: center; padding-bottom: 30px;">Certifications</h2>
+  <div id="certGrid" class="row g-4" data-masonry='{"percentPosition": true }'>
+    <div class="col-sm-6 col-lg-4">
+      <div class="card bg-secondary text-white shadow-sm border-0 card-cert" data-img="image url">
+        <img src="image url" class="card-img-top" alt="Certificate 1">
+        <div class="card-body d-flex flex-column">
+          <h5 class="card-title">Certificate 1</h5>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-sm-6 col-lg-4">
+      <div class="card bg-secondary text-white shadow-sm border-0 card-cert" data-img="image url">
+        <img src="image url" class="card-img-top" alt="Certificate 2">
+        <div class="card-body d-flex flex-column">
+          <h5 class="card-title">Certificate 2</h5>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-sm-6 col-lg-4">
+      <div class="card bg-secondary text-white shadow-sm border-0 card-cert" data-img="image url">
+        <img src="image url" class="card-img-top" alt="Certificate 3">
+        <div class="card-body d-flex flex-column">
+          <h5 class="card-title">Certificate 3</h5>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Modal -->
+<div class="modal fade" id="certModal" tabindex="-1" aria-labelledby="certModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-lg">
+    <div class="modal-content bg-dark text-white">
+      <div class="modal-body">
+        <img id="modalCertImg" src="" class="img-fluid rounded" alt="Certificate Preview" />
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-outline-light" data-bs-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <section id="contact" class="contact-section py-5 fade-slide-up">
+  <div class="container text-center">
+    <h2 class="mb-4">Get in Touch</h2>
+    <form id="contact-form" class="contact-form mx-auto">
+      <div class="form-group">
+        <input type="text" name="user_name" class="form-control" placeholder="Your Name" required />
+      </div>
+      <div class="form-group">
+        <input type="email" name="user_email" class="form-control" placeholder="Your Email" required />
+      </div>
+      <div class="form-group">
+        <textarea name="message" class="form-control" rows="5" placeholder="Your Message" required></textarea>
+      </div>
+      <button type="submit" class="btn btn-primary submit-btn">Send Message</button>
+      <p id="form-status" class="mt-3"></p>
+    </form>
+  </div>
+</section>
+
+  <!-- Footer -->
+<footer class="footer">
+  <h3 class="footer-title">Portfolio</h3>
+  <div class="footer-links">
+    <a href="#home">Home</a>
+    <div class="vr"></div>
+    <a href="#about">About</a>
+    <div class="vr"></div>
+    <a href="#skills">Skills</a>
+    <div class="vr"></div>
+    <a href="#certifications">Certifications</a>
+    <div class="vr"></div>
+    <a href="#contact">Contact</a>
+  </div>
+  <div class="footer-socials">
+    <a href="https://wa.me/your no" target="_blank" class="fa-brands fa-whatsapp" title="WhatsApp"></a>
+    <a href="https://linkedin.com/in/your id" target="_blank" class="fa-brands fa-linkedin-in" title="LinkedIn"></a>
+    <a href="mailto:your mail" class="fa-solid fa-envelope" title="Email"></a>
+  </div>
+</footer>
+
+
+  <!-- Scripts -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+  <script src="Script.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/emailjs-com@3/dist/email.min.js"></script>
+<script>
+  (function(){
+    emailjs.init("public id"); // Replace with your actual public key from EmailJS
+  })();
+
+  document.getElementById("contact-form").addEventListener("submit", function(e) {
+    e.preventDefault();
+
+    emailjs.sendForm('service id', 'template id', this)
+      .then(function(response) {
+        document.getElementById("form-status").innerText = "Message sent successfully!";
+        document.getElementById("contact-form").reset();
+      }, function(error) {
+        document.getElementById("form-status").innerText = "Oops! Something went wrong.";
+        console.error('FAILED...', error);
+      });
+  });
+</script>
+
+</body>
+</html>
