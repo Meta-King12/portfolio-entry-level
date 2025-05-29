@@ -1,1 +1,96 @@
-const _0x2ca611=_0x567b;(function(_0x2ed2e7,_0x442b4b){const _0x139e77=_0x567b,_0x2fcba2=_0x2ed2e7();while(!![]){try{const _0x277cf7=parseInt(_0x139e77(0x1e8))/0x1+-parseInt(_0x139e77(0x1ea))/0x2+-parseInt(_0x139e77(0x1f0))/0x3*(-parseInt(_0x139e77(0x1e9))/0x4)+-parseInt(_0x139e77(0x1dc))/0x5+-parseInt(_0x139e77(0x1d3))/0x6+-parseInt(_0x139e77(0x1fb))/0x7+parseInt(_0x139e77(0x1d2))/0x8*(parseInt(_0x139e77(0x1f1))/0x9);if(_0x277cf7===_0x442b4b)break;else _0x2fcba2['push'](_0x2fcba2['shift']());}catch(_0xd33f10){_0x2fcba2['push'](_0x2fcba2['shift']());}}}(_0x52f3,0x4f0fe),AOS['init']({'duration':0x3e8,'offset':0x32}),AOS['refreshHard'](),window[_0x2ca611(0x1e1)](_0x2ca611(0x1f9),()=>{const _0xc14ea1=_0x2ca611,_0x3a8cc5=document[_0xc14ea1(0x1f8)](_0xc14ea1(0x1da));setTimeout(()=>{const _0xaa69a6=_0xc14ea1;_0x3a8cc5[_0xaa69a6(0x1e6)][_0xaa69a6(0x1d9)]=0x0,_0x3a8cc5[_0xaa69a6(0x1e6)][_0xaa69a6(0x1d4)]='opacity\x201s\x20ease',_0x3a8cc5[_0xaa69a6(0x1e6)]['opacity']=0x1;},0x7d0);}));let userHasScrolled=![];function _0x52f3(){const _0x148953=['style','DOMContentLoaded','486153riqQNh','41720bWuKle','278250DaPMRo','click','display','querySelectorAll','smooth','classList','117zURrzh','9xXesXL','add','top','getElementById','getAttribute','home','certModal','querySelector','load','scrollIntoView','3957261Kgmexm','observe','active','block','7741936NbikEA','2074200zOGmGA','transition','innerHeight','getBoundingClientRect','src','none','opacity','.navbar','show','2433395GwHHHY','data-img','.fade-slide-up','.col-sm-6','forEach','addEventListener','target','scroll','intro','isIntersecting'];_0x52f3=function(){return _0x148953;};return _0x52f3();}function _0x567b(_0x1a4287,_0x93e579){const _0x52f354=_0x52f3();return _0x567b=function(_0x567bc9,_0xee347a){_0x567bc9=_0x567bc9-0x1d2;let _0x4f75d1=_0x52f354[_0x567bc9];return _0x4f75d1;},_0x567b(_0x1a4287,_0x93e579);}window['addEventListener'](_0x2ca611(0x1e3),()=>{userHasScrolled=!![];}),setTimeout(()=>{const _0x10089d=_0x2ca611;document[_0x10089d(0x1f4)]('intro')['style']['display']='block',!userHasScrolled&&document[_0x10089d(0x1f4)](_0x10089d(0x1f6))[_0x10089d(0x1fa)]({'behavior':'smooth'});},0xfa0),setTimeout(()=>{const _0x2d35ac=_0x2ca611;document['getElementById'](_0x2d35ac(0x1e4))['style']['display']=_0x2d35ac(0x1d8),document['querySelector'](_0x2d35ac(0x1da))[_0x2d35ac(0x1e6)][_0x2d35ac(0x1ec)]=_0x2d35ac(0x1fe),!userHasScrolled&&document[_0x2d35ac(0x1f4)](_0x2d35ac(0x1f6))['scrollIntoView']({'behavior':_0x2d35ac(0x1ee)});},0x1194);function revealOnScroll(){const _0x19451d=_0x2ca611,_0x42c5d5=document[_0x19451d(0x1ed)](_0x19451d(0x1de)),_0x4fda8b=window[_0x19451d(0x1d5)]*0.85;_0x42c5d5[_0x19451d(0x1e0)](_0x5de0f1=>{const _0xa88b81=_0x19451d,_0x21dca0=_0x5de0f1[_0xa88b81(0x1d6)]()[_0xa88b81(0x1f3)];_0x21dca0<_0x4fda8b&&_0x5de0f1[_0xa88b81(0x1ef)]['add'](_0xa88b81(0x1fd));});}window['addEventListener'](_0x2ca611(0x1e3),revealOnScroll),window[_0x2ca611(0x1e1)](_0x2ca611(0x1f9),revealOnScroll),window[_0x2ca611(0x1e1)](_0x2ca611(0x1e3),()=>{const _0x1d2452=_0x2ca611;document[_0x1d2452(0x1ed)]('.card-cert')[_0x1d2452(0x1e0)]((_0x3a26c8,_0x315c60)=>{const _0x52aa94=_0x1d2452,_0x31eae5=_0x3a26c8[_0x52aa94(0x1d6)]();_0x31eae5['top']<window[_0x52aa94(0x1d5)]-0x32&&setTimeout(()=>{const _0x4c55be=_0x52aa94;_0x3a26c8[_0x4c55be(0x1ef)]['add']('visible');},_0x315c60*0x96);});}),document['addEventListener'](_0x2ca611(0x1e7),()=>{const _0x5b3d83=_0x2ca611;new Masonry('#certGrid',{'itemSelector':_0x5b3d83(0x1df),'percentPosition':!![]});const _0x46ec5e=document[_0x5b3d83(0x1f4)](_0x5b3d83(0x1f7)),_0x178136=document[_0x5b3d83(0x1f4)]('modalCertImg');document['querySelectorAll']('.card-cert')['forEach'](_0x2c9cb6=>{const _0x2fcd49=_0x5b3d83;_0x2c9cb6[_0x2fcd49(0x1e1)](_0x2fcd49(0x1eb),()=>{const _0xd2a953=_0x2fcd49,_0x25926e=_0x2c9cb6[_0xd2a953(0x1f5)](_0xd2a953(0x1dd));_0x178136[_0xd2a953(0x1d7)]=_0x25926e;const _0x3cffe1=new bootstrap['Modal'](_0x46ec5e);_0x3cffe1[_0xd2a953(0x1db)]();});});});const observer=new IntersectionObserver(_0x39e017=>{const _0x5825d5=_0x2ca611;_0x39e017[_0x5825d5(0x1e0)](_0x4f907d=>{const _0x22cae4=_0x5825d5;_0x4f907d[_0x22cae4(0x1e5)]&&_0x4f907d[_0x22cae4(0x1e2)][_0x22cae4(0x1ef)][_0x22cae4(0x1f2)]('active');});},{'threshold':0.1});document[_0x2ca611(0x1ed)]('.fade-slide-up')[_0x2ca611(0x1e0)](_0x2dbe16=>observer[_0x2ca611(0x1fc)](_0x2dbe16));
+// initializing AOS library
+AOS.init({
+  duration: 1000,
+  offset: 50,
+});
+AOS.refreshHard();
+
+// Navbar fade in after intro
+window.addEventListener('load', () => {
+  const navbar = document.querySelector('.navbar');
+  setTimeout(() => {
+    navbar.style.opacity = 0;
+    navbar.style.transition = "opacity 1s ease";
+    navbar.style.opacity = 1;
+  }, 2000);
+});
+
+// Prevent auto-scroll if user interacts first
+let userHasScrolled = false;
+window.addEventListener('scroll', () => {
+  userHasScrolled = true;
+});
+
+// Show intro and scroll only if user hasn't scrolled
+setTimeout(() => {
+  document.getElementById('intro').style.display = 'block';
+  if (!userHasScrolled) {
+    document.getElementById('home').scrollIntoView({ behavior: 'smooth' });
+  }
+}, 4000);
+
+setTimeout(() => {
+  document.getElementById('intro').style.display = 'none';
+  document.querySelector('.navbar').style.display = 'block';
+  if (!userHasScrolled) {
+    document.getElementById('home').scrollIntoView({ behavior: 'smooth' });
+  }
+}, 4500);
+
+// Section reveal animation
+function revealOnScroll() {
+  const fadeElems = document.querySelectorAll('.fade-slide-up');
+  const triggerPoint = window.innerHeight * 0.85;
+  fadeElems.forEach(el => {
+    const top = el.getBoundingClientRect().top;
+    if (top < triggerPoint) {
+      el.classList.add('active');
+    }
+  });
+}
+
+window.addEventListener('scroll', revealOnScroll);
+window.addEventListener('load', revealOnScroll);
+
+// Staggered reveal for cert cards
+window.addEventListener('scroll', () => {
+  document.querySelectorAll('.card-cert').forEach((card, index) => {
+    const rect = card.getBoundingClientRect();
+    if (rect.top < window.innerHeight - 50) {
+      setTimeout(() => {
+        card.classList.add('visible');
+      }, index * 150);
+    }
+  });
+});
+
+// Masonry + Modal
+document.addEventListener("DOMContentLoaded", () => {
+  new Masonry('#certGrid', {
+    itemSelector: '.col-sm-6',
+    percentPosition: true
+  });
+
+  const modal = document.getElementById('certModal');
+  const modalImg = document.getElementById('modalCertImg');
+
+  document.querySelectorAll('.card-cert').forEach(card => {
+    card.addEventListener('click', () => {
+      const imgSrc = card.getAttribute('data-img');
+      modalImg.src = imgSrc;
+      const bsModal = new bootstrap.Modal(modal);
+      bsModal.show();
+    });
+  });
+});
+
+// Intersection Observer for fade-slide-up
+const observer = new IntersectionObserver((entries) => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      entry.target.classList.add('active');
+    }
+  });
+}, { threshold: 0.1 });
+
+document.querySelectorAll('.fade-slide-up').forEach(el => observer.observe(el));
